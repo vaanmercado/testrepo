@@ -1,0 +1,2 @@
+- Name: Van Arden Mercado
+- Brief Summary: I aim to expand my learning and deliver professional growth, ready to tackle programming tasks. Willingness to actively engage in end-to-end application development, contribute ideas, manage personal tasks, and meet team needs. When I'm not on the computer, I enjoy Running, Mountain biking, Participating in Spartan Races and teaching my dogs.
